@@ -23,7 +23,7 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Custom Status", // required by Discord API, not shown in the client
+        name: "NVR", // required by Discord API, not shown in the client
         state: "I Need U <3",     // this is what people actually see
         type: 0,               // Grand Theft Auto VI
       },
