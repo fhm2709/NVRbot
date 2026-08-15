@@ -25,7 +25,7 @@ export const botConfig = {
       {
         name: "No Scrubs", // required by Discord API, not shown in the client
         state: "No Scrubs",     // this is what people actually see
-        type: 2,               // Grand Theft Auto VI
+        type: 2,               // custom
       },
     ],
   },
