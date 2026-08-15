@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "https://open.spotify.com/intl-fr/track/1KGi9sZVMeszgZOWivFpxs?si=378f4972215443e4", // required by Discord API, not shown in the client
-        state: "https://open.spotify.com/intl-fr/track/1KGi9sZVMeszgZOWivFpxs?si=378f4972215443e4",     // this is what people actually see
+        name: "No Scrubs", // required by Discord API, not shown in the client
+        state: "No Scrubs",     // this is what people actually see
         type: 2,               // Grand Theft Auto VI
       },
     ],
